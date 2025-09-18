@@ -101,7 +101,7 @@ export function Footer() {
               </li>
               <li className="flex items-center text-background/80">
                 <Phone className="h-4 w-4 mr-3" />
-                <span>Coming Soon</span>
+                <span>+91 96509 48090</span>
               </li>
             </ul>
           </div>

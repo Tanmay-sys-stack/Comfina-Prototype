@@ -10,7 +10,7 @@ const teamMembers = [
     role: "Founder & CEO",
     description: "Visionary entrepreneur, product strategist, and leader behind Comfina's innovation.",
     background:
-      "Former product lead at wellness startups, passionate about creating technology that empowers women. MBA from IIM, 8+ years in product strategy.",
+      "Founder of Comfina and student of Pragyan School, currently pursuing commerce. Ankur has led multiple innovative projects and won national-level pitch competitions for his entrepreneurial ideas. As former school captain and active Rotary member, he has demonstrated leadership and commitment to community service. With several achievements in innovation, including Comfina, Ankur blends creativity with business acumen. Passionate about entrepreneurship, he is gaining hands-on experience while still in school and continues to explore opportunities that create meaningful impact. Ankur is the face of comfina.",
     personalNote: "Believes that the best innovations come from understanding real human needs.",
     image: "/professional-headshot-of-indian-male-entrepreneur-.jpg",
   },
@@ -19,7 +19,7 @@ const teamMembers = [
     role: "COO",
     description: "Operations expert ensuring seamless execution and market entry.",
     background:
-      "Supply chain and operations specialist with experience scaling consumer products. Previously at leading FMCG companies, expert in go-to-market strategies.",
+      "Tanmay Sharma, a student of Pragyan School pursuing PCM, is a versatile innovator recognized for his achievements in pitching and innovation. Skilled across programming, UI/UX design, video editing, 3D modeling, rendering, animation, and music production, he combines technical precision with creative depth. With experience in areas like algorithm optimization, API integration, and interactive system design, Tanmay applies advanced coding skills to solve real-world challenges. His ability to merge design thinking with technical execution makes him stand out as a forward-looking creator, constantly experimenting with new technologies and pushing the boundaries of digital innovation.",
     personalNote: "Passionate about building systems that scale with purpose and precision.",
     image: "/professional-headshot-of-indian-male-operations-ex.jpg",
   },
@@ -28,7 +28,7 @@ const teamMembers = [
     role: "CTO",
     description: "Technology innovator, overseeing product development and future smart features.",
     background:
-      "Full-stack engineer and IoT specialist. Former tech lead at hardware startups, expert in consumer electronics and mobile app development.",
+      "Manas Singhal, a student of Pragyan School pursuing PCM, is passionate about mechanics, robotics, and emerging technologies. With a strong grasp of engineering concepts and an understanding of coding languages, he bridges theory with hands-on innovation. As an active member of the school’s Atal Innovation Lab, Manas has explored projects that combine mechanical design, automation, and problem-solving at scale. His ability to integrate creativity with technical know-how reflects a forward-thinking mindset, making him a vital contributor to building impactful solutions.",
     personalNote: "Driven by the challenge of making complex technology feel effortlessly simple.",
     image: "/professional-headshot-of-indian-male-technology-ex.jpg",
   },
