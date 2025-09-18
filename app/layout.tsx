@@ -35,6 +35,9 @@ export const metadata: Metadata = {
     title: "Comfina - Relief. Anytime. Anywhere.",
     description: "Premium wellness-tech for period relief",
   },
+  verification: {
+    google: "WkmJk1JnQjwIxksyQ5uUG17IY2mlCpjfwzdQiSv2DS0", // <--- paste the token Google gave you
+  },
 }
 
 export default function RootLayout({
