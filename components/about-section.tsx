@@ -94,7 +94,11 @@ export function AboutSection() {
           {/* Visual element */}
           <div className="relative">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
-              <img src="/elegant-wellness-product-lifestyle-photography-wit.jpg" alt="Comfina lifestyle" className="w-full h-auto object-cover" />
+              <img
+                src="/elegant-wellness-product-lifestyle-photography-wit.jpg"
+                alt="Comfina lifestyle"
+                className="w-full h-auto object-cover"
+              />
               <div className="absolute inset-0 bg-gradient-to-t from-primary/20 to-transparent" />
             </div>
             {/* Floating elements */}
@@ -113,23 +117,23 @@ export function AboutSection() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8">
             {features.map((feature, index) => {
               const IconComponent = feature.icon
               return (
                 <Card
                   key={feature.title}
-                  className={`group p-8 text-center border-0 bg-white/50 backdrop-blur-sm hover:bg-white/80 transition-all duration-700 hover:scale-105 hover:shadow-xl ${
+                  className={`group p-6 sm:p-8 text-center border-0 bg-white/50 backdrop-blur-sm hover:bg-white/80 transition-all duration-700 hover:scale-105 hover:shadow-xl min-h-[280px] flex flex-col justify-start ${
                     visibleElements[index] ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
                   }`}
                 >
-                  <div className="inline-flex items-center justify-center w-16 h-16 rounded-2xl gradient-rose-gold mb-6 group-hover:scale-110 transition-transform duration-300">
-                    <IconComponent className="h-8 w-8 text-white" />
+                  <div className="inline-flex items-center justify-center w-14 h-14 sm:w-16 sm:h-16 rounded-2xl gradient-rose-gold mb-4 sm:mb-6 group-hover:scale-110 transition-transform duration-300 mx-auto">
+                    <IconComponent className="h-6 w-6 sm:h-8 sm:w-8 text-white" />
                   </div>
-                  <h4 className="font-serif text-xl font-medium text-foreground mb-4 group-hover:text-primary transition-colors">
+                  <h4 className="font-serif text-lg sm:text-xl font-medium text-foreground mb-3 sm:mb-4 group-hover:text-primary transition-colors">
                     {feature.title}
                   </h4>
-                  <p className="text-muted-foreground text-sm leading-relaxed">{feature.description}</p>
+                  <p className="text-muted-foreground text-sm leading-relaxed flex-grow">{feature.description}</p>
                 </Card>
               )
             })}
