@@ -146,11 +146,11 @@ export function AboutSection() {
             <h3 className="font-serif text-3xl md:text-4xl font-light text-foreground mb-6">Our Impact</h3>
             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
               We're not just building a product—we're fostering a community of empowered women who refuse to let period
-              pain define their limits. Join thousands of women who are already part of the Comfina movement.
+              pain define their limits. Join hundreds of women who are already part of the Comfina movement.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div>
-                <div className="text-3xl font-serif font-light text-primary mb-2">10,000+</div>
+                <div className="text-3xl font-serif font-light text-primary mb-2">100+</div>
                 <p className="text-sm text-muted-foreground">Women in our community</p>
               </div>
               <div>
