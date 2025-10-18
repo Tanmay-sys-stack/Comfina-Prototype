@@ -76,8 +76,8 @@ export function AboutSection() {
                 tie you to one place.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Comfina changes everything. Our innovative bottle combines elegant design with smart heating technology,
-                providing discreet, portable relief that moves with you throughout your day.
+                Comfina changes everything. Our innovative product combines elegant design with smart heating
+                technology, providing discreet, portable relief that moves with you throughout your day.
               </p>
             </div>
 

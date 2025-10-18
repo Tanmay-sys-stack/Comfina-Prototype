@@ -3,6 +3,7 @@ import { HeroSection } from "@/components/hero-section"
 import { LinkHubSection } from "@/components/link-hub-section"
 import { TeamSection } from "@/components/team-section"
 import { AboutSection } from "@/components/about-section"
+import { CompanyStorySection } from "@/components/company-story-section"
 import { WaitlistSection } from "@/components/waitlist-section"
 import { Footer } from "@/components/footer"
 import { ScrollProgress } from "@/components/scroll-progress"
@@ -31,6 +32,7 @@ export default function HomePage() {
       </ParallaxHero>
       <LinkHubSection />
       <AboutSection />
+      <CompanyStorySection />
       <TeamSection />
       <WaitlistSection />
       <Footer />

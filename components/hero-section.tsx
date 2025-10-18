@@ -70,7 +70,7 @@ export function HeroSection() {
                   <div className="w-32 h-48 mx-auto mb-4 rounded-2xl bg-primary/20 flex items-center justify-center">
                     <div className="w-16 h-32 rounded-xl gradient-rose-gold shadow-2xl" />
                   </div>
-                  <p className="text-sm text-muted-foreground font-medium">Comfina Bottle</p>
+                  <p className="text-sm text-muted-foreground font-medium">Comfina Product</p>
                   <p className="text-xs text-muted-foreground">Premium Wellness Technology</p>
                 </div>
               </div>

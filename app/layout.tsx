@@ -20,9 +20,9 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Comfina - Relief. Anytime. Anywhere.",
   description:
-    "Premium wellness-tech that discreetly relieves period cramps through a stylish bottle with integrated heating. Comfort. Style. Technology.",
+    "Premium wellness-tech that discreetly relieves period cramps through an innovative product with integrated heating. Comfort. Style. Technology.",
   generator: "v0.app",
-  keywords: ["wellness", "period relief", "women health", "heating bottle", "premium wellness"],
+  keywords: ["wellness", "period relief", "women health", "heating technology", "premium wellness"],
   authors: [{ name: "Comfina Team" }],
   openGraph: {
     title: "Comfina - Relief. Anytime. Anywhere.",
