@@ -68,9 +68,7 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="#team" className="text-background/80 hover:text-background transition-colors">
-                  Our Team
-                </Link>
+                
               </li>
               <li>
                 <Link href="#links" className="text-background/80 hover:text-background transition-colors">
