@@ -37,9 +37,7 @@ export function Navigation() {
           <Link href="#about" className="text-muted-foreground hover:text-foreground transition-colors">
             About
           </Link>
-          <Link href="#team" className="text-muted-foreground hover:text-foreground transition-colors">
-            Team
-          </Link>
+          
           <Link href="#links" className="text-muted-foreground hover:text-foreground transition-colors">
             Connect
           </Link>
