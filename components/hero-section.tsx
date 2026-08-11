@@ -89,7 +89,7 @@ export function HeroSection() {
         <div
           className={`transition-all duration-1000 delay-700 ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}
         >
-          <p className="text-sm text-muted-foreground mt-6">Coming Soon • Pre-orders starting Q2 2025</p>
+          <p className="text-sm text-muted-foreground mt-6">Coming Soon • Pre-orders starting Q2 2027</p>
         </div>
       </div>
     </section>
